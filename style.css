@@ -1,0 +1,15 @@
+html{
+    background: linear-gradient(134deg, #C7D0FF 0%, #4961DC 99%) no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1,a {
+    margin-top:  70px;
+    margin-left: 40px;
+    color: #383838;
+}
+
+p{
+    margin-left: 100px;
+    color: black;
+}
